@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995300439497",
+    "project_id": "smart-trucks-realtime",
+    "storage_bucket": "smart-trucks-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995300439497:android:baf93cf2096ee79d7ee418",
+        "android_client_info": {
+          "package_name": "com.example.smart_trucks_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJ_S2SyfFgmKbRAw0GQShdaB5h-kBZr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
